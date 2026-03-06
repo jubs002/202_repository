@@ -1,0 +1,30 @@
+*{
+    margin: 20px;
+    padding: 0px;
+    background-color: #f0ead2;
+
+}
+.nome{
+    font-family: 'Georgia', 'Times New Roman'Times, serif;
+    color:#adc178;
+    font-size:50px;
+    text-align: center;
+}
+.titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #a1c181;
+    text-align: left;
+}
+div{
+    display: flow;
+    flex-direction: column;
+    gap: 15px;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+}
+
